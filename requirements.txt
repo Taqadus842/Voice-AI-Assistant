@@ -1,0 +1,5 @@
+torch>=2.0.0
+transformers>=4.35.0
+scipy
+gradio>=4.0.0
+openvoice-cli>=0.0.5
